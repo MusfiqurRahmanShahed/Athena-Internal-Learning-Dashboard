@@ -12,4 +12,4 @@ Internal dashboard for student submissions and review
 
 ## 📊 Analytics Dashboard
 
-![Analytics](./Analytics_panel_ui.png)
+![Analytics](./Analytic_panel_ui.png)
